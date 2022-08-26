@@ -1,5 +1,5 @@
 #include <iostream>
- 
+ using namespace std;
 
 void findPair(int nums[], int n, int target)
 {
